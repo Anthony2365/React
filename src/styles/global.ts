@@ -10,7 +10,7 @@ export default createGlobalStyle`
 
     }
 
-    boby{
+    body{
         background: #F0F0F5;
     }
 
